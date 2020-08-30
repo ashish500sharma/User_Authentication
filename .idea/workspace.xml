@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eafa26f3-c674-478f-9730-9a3345c840fe" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>regex</find>
+    </findStrings>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectId" id="1g7pXbCP47mGvCBNufGBFwri984" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../reactnative projects/project1" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\node projects\musikii\node_modules\typescript\lib" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eafa26f3-c674-478f-9730-9a3345c840fe" name="Default" comment="" />
+      <created>1595060759618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595060759618</updated>
+      <workItem from="1595060761264" duration="13695000" />
+      <workItem from="1595080849233" duration="1230000" />
+      <workItem from="1595144599755" duration="12651000" />
+      <workItem from="1595232773512" duration="659000" />
+      <workItem from="1595596677417" duration="6914000" />
+      <workItem from="1595847385848" duration="15082000" />
+      <workItem from="1596030191029" duration="10991000" />
+      <workItem from="1597475527200" duration="4199000" />
+      <workItem from="1597503625106" duration="4148000" />
+      <workItem from="1597586259297" duration="346000" />
+      <workItem from="1597689113729" duration="9696000" />
+      <workItem from="1597699508187" duration="3056000" />
+      <workItem from="1597702611382" duration="169000" />
+      <workItem from="1597737922567" duration="3030000" />
+      <workItem from="1597817473404" duration="594000" />
+      <workItem from="1597904784459" duration="4318000" />
+      <workItem from="1597940201591" duration="7984000" />
+      <workItem from="1598027913457" duration="1026000" />
+      <workItem from="1598375377228" duration="814000" />
+      <workItem from="1598549311904" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598549333703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598549333703" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1597701945099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1597701945099" />
+  </component>
+</project>
