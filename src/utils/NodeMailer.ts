@@ -9,7 +9,7 @@ export class NodeMailer
                 service: 'SendGrid',
                 auth:{
 
-                    api_key: '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'
+                    api_key: '*'
                 }
             }
 
@@ -19,7 +19,7 @@ export class NodeMailer
     static sendEmail(data:{to:[string],subject:string,html:string}):Promise<any>
     {
         return NodeMailer.initializeTransport().sendMail({
-            from:'musikiiproduction@gmail.com',
+            from:'*',
             to:data.to,
             subject:data.subject,
             html:data.html

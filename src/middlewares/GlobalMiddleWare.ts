@@ -95,18 +95,4 @@ export class GlobalMiddleWare
                     }
     }
 
-    //
-    // static checkVerified(req,res,next) {
-    //     const user_verified = req.user.verified;
-    //     console.log(user_verified);
-    //     if (user_verified === true) {
-    //         console.log('called');
-    //         req.errStatus = 401;
-    //         next(new Error('USER IS ALREADY VERIFIED'));
-    //     } else {
-    //         next();
-    //     }
-    //
-    // }
-
 }
